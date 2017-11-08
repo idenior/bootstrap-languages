@@ -1,3 +1,5 @@
+**== Add Kazakh language support ==**
+
 The _Languages for Bootstrap 3_ project provides a simple way to present
 language labels and names in a _Bootstrap 3_ project.
 

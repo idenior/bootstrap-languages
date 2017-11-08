@@ -6,7 +6,7 @@ path_to_svg=../country-flag-icons/images/svg
 
 svgs=""
 for alpha2 in sa by bg cz dk de gr gb es ee fi fr ie in hr hu id is it \
-               il jp kr lt lv mk my mt nl no pl pt ro ru sk si al rs se \
+               il jp kr kz lt lv mk my mt nl no pl pt ro ru sk si al rs se \
                th tr ua vn cn ; do
     # Convert an alpha-2 code to an alpha-3 code according to ISO 3166-1
     alpha3=$(grep "^$alpha2" map|cut -f2)
