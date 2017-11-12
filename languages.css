@@ -185,7 +185,7 @@
 .lang-lbl[lang=iw]:after { content: "\0005E2\0005D1\0005E8\0005D9\0005EA"; }
 .lang-lbl[lang=ja]:after { content: "\0065E5\00672C\008A9E"; }
 .lang-lbl[lang=ko]:after { content: "\00D55C\00AD6D\00C5B4"; }
-.lang-lbl[lang=kz]:after { content: "\00049A\000430\000437\000430\00049B\000448\000430 "; }
+.lang-lbl[lang=kz]:after { content: "\00049A\000430\000437\000430\00049B"; }
 .lang-lbl[lang=lt]:after { content: "Lietuvi\000173"; }
 .lang-lbl[lang=lv]:after { content: "Latvie\000161u"; }
 .lang-lbl[lang=mk]:after { content: "\00041C\000430\00043A\000435\000434\00043E\00043D\000441\00043A\000438"; }
@@ -277,7 +277,7 @@
 .lang-lbl-full[lang=iw]:after { content: "\0005E2\0005D1\0005E8\0005D9\0005EA\0000A0/\0000A0Hebrew"; }
 .lang-lbl-full[lang=ja]:after { content: "\0065E5\00672C\008A9E\0000A0/\0000A0Japanese"; }
 .lang-lbl-full[lang=ko]:after { content: "\00D55C\00AD6D\00C5B4\0000A0/\0000A0Korean"; }
-.lang-lbl-full[lang=kz]:after { content: "\00049A\000430\000437\000430\00049B\000448\000430\0000A0/\0000A0Kazakh"; }
+.lang-lbl-full[lang=kz]:after { content: "\00049A\000430\000437\000430\00049B\0000A0/\0000A0Kazakh"; }
 .lang-lbl-full[lang=lt]:after { content: "Lietuvi\000173\0000A0/\0000A0Lithuanian"; }
 .lang-lbl-full[lang=lv]:after { content: "Latvie\000161u\0000A0/\0000A0Latvian"; }
 .lang-lbl-full[lang=mk]:after { content: "\00041C\000430\00043A\000435\000434\00043E\00043D\000441\00043A\000438\0000A0/\0000A0Macedonian"; }
